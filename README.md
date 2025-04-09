@@ -1,4 +1,4 @@
-# Hướng dẫn sử dụng
+# Hướng dẫn chấm map trong project
 - Cài sqlite 
     + Với Ubuntu-based
 
